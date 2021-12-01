@@ -24,4 +24,4 @@ cd to the folder where you've cloned this repo, and simply do a `swift run`.
 
 If it works, you will get a white window with a single button in the middle, showing the name of the process and the OS version. When you click the button, the app will cleanly exit.
 
-![](screenshot.png)
+![](Screenshot.png)
